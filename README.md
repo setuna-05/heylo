@@ -279,7 +279,7 @@ I've only tried it on Windows, because I'm not sure about other systems.
 ## License
 
 License: MIT
-Feel free to use it however you like. Let's go!!! yeaaaaaaaaaaaah
+Feel free to use it however you like. Let's go!!! yeaaaaaaaaaaaah!!!!!!!!!
 
 ## Maybe later
 
