@@ -1,0 +1,10 @@
+{"scopeName": "source.helo",
+"patterns": [{"name": "comment.line.heylo","match": "\\btbh.*"},
+             {"name": "keyword.control.heylo","match": "\\b(sus|idk|spam|fin)\\b"},
+             {"name": "keyword.other.heylo","match": "\\b(lol|bet|yeet|vibe|ship|send|yoink)\\b"},
+             {"name": "keyword.operator.heylo","match": "\\b(fam|ig|no)\\b"},
+             {"name": "constant.language.heylo","match": "\\b(based|cringe)\\b"},
+             {"name": "string.quoted.double.heylo","match": "\"[^\"]*\""},
+             {"name": "constant.numeric.heylo","match": "\\b[0-9]+\\b"}
+            ]
+}

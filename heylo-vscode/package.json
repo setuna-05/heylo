@@ -1,0 +1,13 @@
+{"name": "heylo-lang",
+"displayName": "heylo",
+"publisher": "heylo",
+"version": "0.0.1",
+"engines": {"vscode": "^1.60.0"},
+"contributes": {"languages": [{"id": "heylo","aliases": ["heylo"],"extensions": [".helo"],"configuration": "./language-configuration.json"}],
+"grammars":[
+    {
+        "language": "heylo","scopeName": "source.helo","path": "./syntaxes/heylo.tmLanguage.json"
+    }
+           ]
+    }
+}
